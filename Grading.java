@@ -1,17 +1,6 @@
-/*11. The grades are assigned to student based on the average they have gained. WAP to accpet the marks from user 
-    calculate the average and display their grades
-    90% and above O 
-    80 - 89  A+ 
-    70 - 79 A 
-    60 - 69 B+
-    50 - 59 B
-    45 - 49 C
-    40 - 44 P
-    <40     F */
+
 
 import java.io.*;
-
-
 public class Grading
 {
     public static void main(String arg[]) throws IOException
